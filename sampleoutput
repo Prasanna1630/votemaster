@@ -1,0 +1,44 @@
+===== SmartVote System =====
+Election ID: EL8392
+
+Add Candidate
+
+Register Voter
+
+Vote
+
+Show Results
+
+Exit
+Choose: 1
+Enter Candidate Name: Arjun Reddy
+Candidate added: Arjun Reddy
+
+Choose: 2
+Enter Voter Name: Radhika
+Voter registered successfully!
+Your Secret PIN: 4821
+
+Choose: 3
+Enter Voter Name: Radhika
+Enter your Secret PIN: 4821
+Candidates:
+
+Arjun Reddy
+
+Chitti Babu
+Enter Candidate Name to vote: Arjun Reddy
+Vote cast successfully for Arjun Reddy
+Current Leader: Arjun Reddy (1 votes)
+
+Choose: 4
+===== Final Results =====
+Arjun Reddy : 1 votes (100.0%)
+Chitti Babu : 0 votes (0.0%)
+
+Winner: Arjun Reddy
+
+6. Tech Stack (Optional)
+## Tech Stack
+- Java
+- Console-based application
